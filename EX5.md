@@ -1,26 +1,26 @@
+# Ex.No:5
 
-Ex.No:5
+# Ex.Name: Write the right rotate module of splay tree in CPP.
 
-Ex.Name: Write the right rotate module of splay tree in CPP.
-Date:
+## Date:
 
-Aim:
-
-
-Algorithm:
+## Aim:
 
 
+## Algorithm:
 
 
 
-Program:
+
+
+## Program:
 
 
 
-Output:
+## Output:
 
 
 
- Result:
+ ## Result:
 
 
