@@ -1,26 +1,25 @@
+# Ex.No:3
 
-Ex.No:3
+# Ex.Name: Write the InsertInternal Module of the BPlus Tree in CPP
 
-Ex.Name: Write the InsertInternal Module of the BPlus Tree in CPP
-
-Date:
-Aim:
+## Date:
+## Aim:
 
 
-Algorithm:
-
+## Algorithm:
 
 
 
 
-Program:
+
+## Program:
 
 
 
-Output:
+## Output:
 
 
 
- Result:
+ ## Result:
 
 
