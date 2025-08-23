@@ -1,27 +1,27 @@
 
-Ex.No:2
+# Ex.No:2
 
-Ex.Name: Write the findMin module of the B tree in CPP.
+# Ex.Name: Write the findMin module of the B tree in CPP.
 
-Date:
+## Date:
 
-Aim:
-
-
-Algorithm:
+## Aim:
 
 
+## Algorithm:
 
 
 
-Program:
+
+
+## Program:
 
 
 
-Output:
+## Output:
 
 
 
- Result:
+##  Result:
 
 
