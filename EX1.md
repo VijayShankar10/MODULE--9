@@ -1,26 +1,26 @@
 
-Ex.No:1
+# Ex.No:1
 
-Ex.Name: Write the splitNode Module of B Tree in CPP.
+# Ex.Name: Write the splitNode Module of B Tree in CPP.
 
-Date:
- Aim:
-
-
-Algorithm:
+## Date:
+## Aim:
 
 
+## Algorithm:
 
 
 
-Program:
+
+
+## Program:
 
 
 
-Output:
+## Output:
 
 
 
- Result:
+## Result:
 
 
