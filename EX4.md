@@ -1,26 +1,26 @@
-Ex.No:4
+# Ex.No:4
 
-Ex.Name: Write the fixup module of the red black tree in CPP.
+# Ex.Name: Write the fixup module of the red black tree in CPP.
 
-Date:
+## Date:
 
-Aim:
-
-
-Algorithm:
+## Aim:
 
 
+## Algorithm:
 
 
 
-Program:
+
+
+## Program:
 
 
 
-Output:
+## Output:
 
 
 
- Result:
+ ## Result:
 
 
