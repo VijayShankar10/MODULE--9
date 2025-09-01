@@ -42,7 +42,11 @@ node* bst(node* trav, node* temp)
     return trav;
 }
 ```
-## Output:
+
+##  Output:
+<img width="1348" height="861" alt="image" src="https://github.com/user-attachments/assets/5a3e904a-bf14-4833-8756-599584bb272d" />
+
+## Result:
 ```
 Input:
 5
@@ -56,7 +60,3 @@ Data=20 Color=0
 Data=50 Color=0
 Data=65 Color=1
 ```
-##  Result:
-<img width="1348" height="861" alt="image" src="https://github.com/user-attachments/assets/5a3e904a-bf14-4833-8756-599584bb272d" />
-
-
