@@ -7,20 +7,11 @@
 To Write the Right rotate module of the red black tree in CPP.
 
 ## Algorithm:  
-1. Start the program.  
-2. Define a class `Temperature` with:  
-   - A private data member `celsius`.  
-   - Public methods to:  
-     - Read Celsius value.  
-     - Convert Celsius to Fahrenheit using the formula:  
-       \[
-       Fahrenheit = (Celsius \times 9/5) + 32
-       \]  
-     - Display the results.  
-3. In the `main()` function:  
+1. Start the program.    
+2. In the `main()` function:  
    - Create an object of `Temperature`.  
    - Call the methods to read input, perform conversion, and display results.  
-4. Stop the program.  
+3. Stop the program.  
 
 ## Program:
 ```cpp
