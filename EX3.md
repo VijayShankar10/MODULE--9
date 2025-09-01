@@ -56,7 +56,11 @@ int setValue(int val, int *pval, BTreeNode *node, BTreeNode **child)
     return 0;
 }
 ```
+
 ## Output:
+<img width="867" height="452" alt="image" src="https://github.com/user-attachments/assets/c5e54dc3-80be-41c8-b078-28fbd0f59162" />
+
+## Result:
 ```
 Input:
 10
@@ -65,7 +69,3 @@ Input:
 Output:
 7 8 9 11 15 16 17 18 20 23
 ```
-## Result:
-<img width="867" height="452" alt="image" src="https://github.com/user-attachments/assets/c5e54dc3-80be-41c8-b078-28fbd0f59162" />
-
-
