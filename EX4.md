@@ -27,7 +27,11 @@ node *rightRotate(struct node *x)
     return y;
 }
 ```
+
 ## Output:
+<img width="864" height="672" alt="image" src="https://github.com/user-attachments/assets/3525d27f-4acd-4a15-ba4e-60e3f2ee21b5" />
+
+## Result:
 ```
 Input:
 5
@@ -41,7 +45,3 @@ Preorder traversal of the BST is
 Preorder traversal of the modified Splay tree is
 30 20 10 5 6
 ```
-## Result:
-<img width="864" height="672" alt="image" src="https://github.com/user-attachments/assets/3525d27f-4acd-4a15-ba4e-60e3f2ee21b5" />
-
-
