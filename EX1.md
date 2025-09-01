@@ -59,7 +59,11 @@ void BPTree::search(int x)
     }
 }
 ```
+
 ## Output:
+<img width="870" height="791" alt="image" src="https://github.com/user-attachments/assets/c5ecbade-64d3-48fe-ad5c-31721aae3c76" />
+
+## Result:
 ```
 Input:
 5
@@ -72,7 +76,3 @@ Output:
 3 20 45
 Found
 ```
-## Result:
-<img width="870" height="791" alt="image" src="https://github.com/user-attachments/assets/c5ecbade-64d3-48fe-ad5c-31721aae3c76" />
-
-
