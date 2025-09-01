@@ -1,10 +1,10 @@
 # Ex.No:5  
-# Ex.Name: Temperature Conversion (Celsius to Fahrenheit) using Class Methods  
+# Ex.Name: Right rotate module of the red black tree
 
 ## Date:  
 
 ## Aim:  
-To write a C++ program to convert temperature from **Celsius to Fahrenheit** using class methods, where data members are declared as private and methods are defined inside the class.  
+To Write the Right rotate module of the red black tree in CPP.
 
 ## Algorithm:  
 1. Start the program.  
@@ -24,47 +24,42 @@ To write a C++ program to convert temperature from **Celsius to Fahrenheit** usi
 
 ## Program:
 ```cpp
-#include<iostream>
-using namespace std;
-class A{
-    public:
-    int c;
-    void read(){
-        cin>>c;
-    }
-    void dis(){
-        cout<<"The temperature in Celsius:"<<c<<endl;
-    }
-};
-class B:public A{
-    public:
-    void display(){
-        cout<<"The temperature in Fahrenheit:"<<(c-((4/9)*100))<<endl;
-    }
-};
-int main(){
-    B zenko;
-    zenko.dis();
-    zenko.display();
+void rightrotate(node* temp)
+{
+    node* left = temp->l;
+    temp->l = left->r;
+    
+    if (temp->l)
+        temp->l->p = temp;
+        
+    left->p = temp->p;
+    
+    if (!temp->p)
+        root = left;
+    else if (temp == temp->p->l)
+        temp->p->l = left;
+    else
+        temp->p->r = left;
+        
+    left->r = temp;
+    temp->p = left;
 }
 ```
-## Output:
+
+ ## Output:
+<img width="1059" height="840" alt="image" src="https://github.com/user-attachments/assets/42f73450-3da8-4f07-b6bc-7500c64b0d9e" />
+
+## Result:
 ```
-Input:
-95
+Input:	
+5
+50 10 20 5 65
 
 Output:
-The temperature in Celsius:95
-The temperature in Fahrenheit:203
-
-Input:
-78
-
-Output:
-The temperature in Celsius:78
-The temperature in Fahrenheit:172.4
+Inorder Traversal of Created Tree
+Data=5 Color=1
+Data=10 Color=0
+Data=20 Color=0
+Data=50 Color=0
+Data=65 Color=1
 ```
- ## Result:
-<img width="861" height="503" alt="image" src="https://github.com/user-attachments/assets/aa8a0c1b-d854-45d5-8e43-e104199ed01b" />
-
-
